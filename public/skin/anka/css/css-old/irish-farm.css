@@ -1,0 +1,679 @@
+body.anka-irish-farm .main-content {
+    background: url(../images/bg_irish.png) no-repeat center top;
+}
+
+body.anka-irish-farm .main-menu {
+    background: none;
+}
+
+body.anka-irish-farm .main-menu ul.menu li,
+.main-menu ul.menu li a {
+    color: #fff;
+}
+
+body.anka-irish-farm .main-menu .menu {
+    margin-top: 0px;
+}
+
+body.anka-irish-farm .f-nav ul li a {
+    color: #006ca3;
+}
+
+.block01 {
+    width: 100%;
+    height: 790px;
+    margin: 0 auto;
+    position: relative;
+}
+
+@keyframes cloudfirst {
+    0% {
+        background-position-x: 0px;
+    }
+    50% {
+        background-position-x: 4000px;
+    }
+    100% {
+        background-position-x: 8000px;
+    }
+}
+
+@-webkit-keyframes cloudfirst {
+    0% {
+        background-position-x: 0px;
+    }
+    50% {
+        background-position-x: 4000px;
+    }
+    100% {
+        background-position-x: 8000px;
+    }
+}
+
+@-moz-keyframes cloudfirst {
+    0% {
+        background-position-x: 0px;
+    }
+    50% {
+        background-position-x: 4000px;
+    }
+    100% {
+        background-position-x: 8000px;
+    }
+}
+
+@-ms-keyframes cloudfirst {
+    0% {
+        background-position-x: 0px;
+    }
+    50% {
+        background-position-x: 4000px;
+    }
+    100% {
+        background-position-x: 8000px;
+    }
+}
+
+@-o-keyframes cloudfirst {
+    0% {
+        background-position-x: 0px;
+    }
+    50% {
+        background-position-x: 4000px;
+    }
+    100% {
+        background-position-x: 8000px;
+    }
+}
+
+@keyframes animatearrow{
+    0%{
+        transform:translateX(0px);
+       -webkit-transform:translateX(0px);
+       -moz-tranform:translateX(0px);
+       -ms-transform:translateX(0px);
+       -o-transform:translateX(0px);
+    }
+    50%{
+        transform:translateX(10px);
+       -webkit-transform:translateX(10px);
+       -moz-tranform:translateX(10px);
+       -ms-transform:translateX(10px);
+       -o-transform:translateX(10px);
+    }
+    100%{
+        transform:translateX(0px);
+       -webkit-transform:translateX(0px);
+       -moz-tranform:translateX(0px);
+       -ms-transform:translateX(0px);
+       -o-transform:translateX(0px);
+    }
+   
+}
+
+@-webkit-keyframes animatearrow{
+    0%{
+        transform:translateX(0px);
+       -webkit-transform:translateX(0px);
+       -moz-tranform:translateX(0px);
+       -ms-transform:translateX(0px);
+       -o-transform:translateX(0px);
+    }
+    50%{
+        transform:translateX(10px);
+       -webkit-transform:translateX(10px);
+       -moz-tranform:translateX(10px);
+       -ms-transform:translateX(10px);
+       -o-transform:translateX(10px);
+    }
+    100%{
+        transform:translateX(0px);
+       -webkit-transform:translateX(0px);
+       -moz-tranform:translateX(0px);
+       -ms-transform:translateX(0px);
+       -o-transform:translateX(0px);
+    }
+   
+}
+@-moz-keyframes animatearrow{
+    0%{
+        transform:translateX(0px);
+       -webkit-transform:translateX(0px);
+       -moz-tranform:translateX(0px);
+       -ms-transform:translateX(0px);
+       -o-transform:translateX(0px);
+    }
+    50%{
+        transform:translateX(10px);
+       -webkit-transform:translateX(10px);
+       -moz-tranform:translateX(10px);
+       -ms-transform:translateX(10px);
+       -o-transform:translateX(10px);
+    }
+    100%{
+        transform:translateX(0px);
+       -webkit-transform:translateX(0px);
+       -moz-tranform:translateX(0px);
+       -ms-transform:translateX(0px);
+       -o-transform:translateX(0px);
+    }
+   
+}
+@-ms-keyframes animatearrow{
+    0%{
+        transform:translateX(0px);
+       -webkit-transform:translateX(0px);
+       -moz-tranform:translateX(0px);
+       -ms-transform:translateX(0px);
+       -o-transform:translateX(0px);
+    }
+    50%{
+        transform:translateX(10px);
+       -webkit-transform:translateX(10px);
+       -moz-tranform:translateX(10px);
+       -ms-transform:translateX(10px);
+       -o-transform:translateX(10px);
+    }
+    100%{
+        transform:translateX(0px);
+       -webkit-transform:translateX(0px);
+       -moz-tranform:translateX(0px);
+       -ms-transform:translateX(0px);
+       -o-transform:translateX(0px);
+    }
+   
+}
+@-o-keyframes animatearrow{
+    0%{
+        transform:translateX(0px);
+       -webkit-transform:translateX(0px);
+       -moz-tranform:translateX(0px);
+       -ms-transform:translateX(0px);
+       -o-transform:translateX(0px);
+    }
+    50%{
+        transform:translateX(10px);
+       -webkit-transform:translateX(10px);
+       -moz-tranform:translateX(10px);
+       -ms-transform:translateX(10px);
+       -o-transform:translateX(10px);
+    }
+    100%{
+        transform:translateX(0px);
+       -webkit-transform:translateX(0px);
+       -moz-tranform:translateX(0px);
+       -ms-transform:translateX(0px);
+       -o-transform:translateX(0px);
+    }
+   
+}
+.block01 .cloud {
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    top: 0px;
+}
+
+.block01 .cloud-1 {
+    width: 100%;
+    height: 218px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: url(../images/cloud-1-irish.png) repeat-x center top;
+    animation: cloudfirst linear 600s;
+    -webkit-animation: cloudfirst linear 600s;
+    -moz-animation: cloudfirst linear 600s;
+    -ms-animation: cloudfirst linear 600s;
+    -o-animation: cloudfirst linear 600s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+}
+
+.block01 .cloud-2 {
+    width: 100%;
+    height: 234px;
+    top: 0px;
+    right: 0px;
+    position: absolute;
+    background: url(../images/cloud-2-irish.png) repeat-x center top;
+    animation: cloudfirst linear 150s;
+    -webkit-animation: cloudfirst linear 150s;
+    -moz-animation: cloudfirst linear 150s;
+    -ms-animation: cloudfirst linear 150s;
+    -o-animation: cloudfirst linear 150s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+}
+
+.block01 .intro {
+    width: 470px;
+    float: left;
+    text-align: center;
+    color: #fff;
+    padding-top: 222px;
+    padding-left: 76px;
+}
+
+.block01 .intro h2 {
+    font-family: UTMAvo;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.block01 .intro h1 {
+    font-family: UVNSaigon;
+    font-weight: 600;
+    font-size: 46px;
+    padding-bottom: 18px;
+}
+
+.block01 .intro h3 {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.block01 .intro h4 {
+    font-size: 14px;
+    font-weight: normal;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.block01 .bing {
+    width: 579px;
+    height: 736px;
+    position: relative;
+    padding: 54px 0px 0px 432px;
+}
+
+.block01 .bing-obj {
+    width: 54px;
+    height: 63px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.block01 .bing-1 {
+    top: 327px;
+    right: 91px;
+    background: url(../images/bing-irish.png) no-repeat center top;
+}
+
+.block01 .bing-2 {
+    top: 492px;
+    right: 129px;
+    background: url(../images/bing-irish.png) no-repeat center top;
+}
+
+.block01 .bing-3 {
+    top: 500px;
+    right: 295px;
+    background: url(../images/bing-irish.png) no-repeat center top;
+}
+
+.block01 .bing-4 {
+    top: 586px;
+    right: 328px;
+    background: url(../images/bing-irish.png) no-repeat center top;
+}
+
+.block01 .bing-hover {
+    width: 250px;
+    height: 220px;
+    bottom: -21px;
+    right: -95px;
+    display: none;
+    position: absolute;
+    color: #fff;
+}
+
+.block01 .bing-hover .button-bottom {
+    position: absolute;
+    bottom: 19px;
+    width: 100%;
+    height: 70px;
+}
+
+.block01 .bing-hover h4 {
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 12px;
+    margin-left: 20px;
+    margin-top: 14px;
+    margin-bottom: 9px;
+}
+
+.block01 .bing-hover h5 {
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 12px;
+    font-weight: normal;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.block01 .bing-hover a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.block01 .bing-hover .arrow {
+    width: 44px;
+    height: 24px;
+    background: url(../images/arrow-irish.png) no-repeat center top;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+
+.block01 .bing-hover .button-bottom:hover .arrow {
+    animation: animatearrow linear 0.4s;
+    -webkit-animation: animatearrow linear 0.4s;
+    -moz-animation: animatearrow linear 0.4s;
+    -ms-animation: animatearrow linear 0.4s;
+    -oz-animation: animatearrow linear 0.4s;
+
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+}
+
+.block01 .bing-1-hover {
+    background: url(../images/michael-ryan-irish.png) no-repeat center bottom;
+}
+
+.block01 .bing-2-hover {
+    background: url(../images/dairy-murphy-irish.png) no-repeat center bottom;
+}
+
+.block01 .bing-3-hover {
+    background: url(../images/dairy-fiachra-irish.png) no-repeat center bottom;
+}
+
+.block01 .bing-4-hover {
+    background: url(../images/michael-oflynn-irish.png) no-repeat center bottom;
+}
+
+#lean_overlay {
+    position: fixed;
+    z-index: 100;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background: #000;
+    display: none;
+}
+
+.slider-w {
+    width: 680px;
+    height: 454px;
+    color: #fff;
+    font-size: 13px;
+    display: none;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.slider1 {
+    position: relative;
+}
+
+.slider1 #slider1_container {
+    width: 680px;
+    height: 450px;
+}
+
+#slider1_container .slider {
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    position: absolute;
+    overflow: hidden;
+    left: 0px;
+    top: 0px;
+    width: 680px;
+    height: 204px;
+}
+
+#slider1_container .jssora21l,
+#slider1_container .jssora21ldn {
+    position: absolute;
+    top: 179px;
+    left: -22px;
+    background: url(../images/arrow-icon-irish.png) no-repeat left;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    z-index: 9999 !important
+}
+
+#slider1_container .jssora21r,
+#slider1_container .jssora21rdn {
+    position: absolute;
+    top: 179px;
+    right: -22px;
+    background: url(../images/arrow-icon-irish.png) no-repeat right;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    z-index: 9999 !important
+}
+
+#slider1_container .bullet {
+    position: absolute;
+    top: 430px;
+    left: 45%;
+    z-index: 9999 !important;
+}
+
+#slider1_container .bullet>div {
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 19px;
+    font-size: 12px;
+    background: url(../images/list-icon-irish.png) no-repeat -20px 0;
+}
+
+#slider1_container .bullet>div.av {
+    background-position: 0px 0px;
+}
+
+#boutique {
+    display: none;
+    margin: 0 auto;
+}
+
+#boutique h6 {
+    text-indent: -10000px;
+}
+
+#boutique img {
+    width: auto !important;
+}
+
+.boutique {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    z-index: 1
+}
+
+.boutique li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    z-index: 1;
+    display: none;
+    border-width: 0
+}
+
+.boutique img {
+    border: 0;
+    vertical-align: bottom
+}
+
+.boutique span {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: left;
+    cursor: default;
+    margin: 0
+}
+
+.boutique h6 {
+    cursor: default
+}
+
+.boutique a,
+.boutique a:hover {
+    cursor: default;
+    text-decoration: none;
+    outline: none
+}
+
+.boutique img,
+.boutique li,
+.boutique a {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -moz-user-drag: none;
+    user-drag: none
+}
+
+.boutique.rtl h6,
+.boutique.rtl span {
+    text-align: right
+}
+
+.boutique li {
+    margin: 0 10px;
+}
+
+.boutique li.frame1,
+.boutique li.frame2 {
+    display: none !important;
+}
+
+.btn-close {
+    width: 34px;
+    height: 36px;
+    background: url(../images/btn-close-irish.png) no-repeat center;
+    position: absolute;
+    top: -14px;
+    right: -14px;
+    z-index: 1000;
+}
+
+.slider-w .caption-w {
+    width: 100%;
+    height: 53px;
+    position: absolute;
+    background: url(../images/gradient-slide-irish.png) no-repeat center;
+    top: 151px;
+}
+
+.slider-w .caption {
+    z-index: 300 !important;
+    display: none;
+    position: absolute;
+    top: 151px;
+}
+
+.slider-w .caption h2 {
+    font-size: 20px;
+    font-weight: normal;
+    padding-top: 150px;
+    padding: 0px 57px;
+}
+
+.slider-w .data-w {
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    top: 204px;
+    background: #006da4;
+    border-bottom-left-radius: 8px;
+    -webkit-border-bottom-left-radius: 8px;
+    -moz-border-bottom-left-radius: 8px;
+    -ms-border-bottom-left-radius: 8px;
+    -o-border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    -webkit-border-bottom-right-radius: 8px;
+    -moz-border-bottom-right-radius: 8px;
+    -ms-border-bottom-right-radius: 8px;
+    -o-border-bottom-right-radius: 8px;
+}
+
+.slider-w .data {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 300;
+    bottom: 0px;
+    display: none;
+    top: 204px;
+}
+
+.slider-w .data h2 {
+    font-size: 20px;
+    font-weight: normal;
+    padding-bottom: 7px;
+    padding-left: 57px;
+    padding-right: 57px;
+    padding-top: 18px;
+}
+
+.slider-w .data ul {
+    margin: 0px;
+    width: 91%;
+    height: 143px;
+    padding: 0 57px;
+}
+
+.slider-w ul li {
+    width: 50%;
+    height: 34px;
+    list-style-type: none;
+    float: left;
+}
+
+.slider-w ul li .text {
+    width: 70%;
+    float: left;
+    text-align: left;
+    font-size: 14px;
+}
+
+.slider-w ul li .number {
+    width: 30%;
+    text-align: left;
+    float: right;
+    font-size: 16px;
+}

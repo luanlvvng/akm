@@ -1,0 +1,365 @@
+body.support .main-content {
+  background: url(../images/bg-tuvan.png) repeat-x #FFF top center;
+}
+.support .main-content .wrap-content {
+  padding-top: 110px;
+}
+.support .main-content .wrap-content .support-title {
+  margin-bottom: 30px;
+}
+.support .main-content .wrap-content .support-title h2 {
+  font-size: 24px;
+  color: #006ca3;
+  font-family: UVNSaigon;
+}
+.support .main-content .wrap-content .support-title p {
+  color: #3a3a3a;
+  font-size: 14px;
+  width: 667px;
+}
+.support .main-content .wrap-content .clm-left {
+  float: left;
+  width: 570px;
+}
+.support .main-content .wrap-content .clm-left form .f-group {
+  clear: both;
+  padding: 10px 0 0 0;
+  height: 40px;
+}
+.support .main-content .wrap-content .clm-left form .f-group .f-title {
+  display: block;
+  float: left;
+  color: #3a3a3a;
+  font-weight: normal;
+  width: 70px;
+  margin-right: 10px;
+  text-align: left;
+  padding: 10px 0;
+}
+.support .main-content .wrap-content .clm-left form .f-group input[type=text],
+.support .main-content .wrap-content .clm-left form .f-group .noidung {
+  float: right;
+  width: 470px;
+  background: #d4ecf7;
+  border: 0;
+  border-radius: 5px;
+  height: 40px;
+  padding: 0 10px;
+}
+.support .main-content .wrap-content .clm-left form .f-group input[type=text]:focus,
+.support .main-content .wrap-content .clm-left form .f-group .noidung:focus {
+  outline: 0px;
+}
+.support .main-content .wrap-content .clm-left form .f-group .noidung {
+  min-height: 190px;
+  max-height: 190px;
+  padding: 10px;
+  max-width: 470px;
+}
+.support .main-content .wrap-content .clm-left form .f-group .send-question {
+  cursor: pointer;
+  font-size: 12px;
+  color: #ffffff;
+  background: url(../images/button.png) no-repeat 0 -80px;
+  line-height: 40px;
+  width: 190px;
+  border: 0;
+  text-transform: uppercase;
+  outline: 0;
+  padding: 0;
+  font-weight: bold;
+}
+.support .main-content .wrap-content .clm-left form .f-group .send-question:hover {
+  background: url(../images/button.png) no-repeat 0 -120px;
+}
+.support .main-content .wrap-content .clm-left form .f-group .birthday {
+  text-align: right;
+  font-size: 12px;
+  color: #8a9ea8;
+}
+.support .main-content .wrap-content .clm-left form .f-group .r-group {
+  padding-top: 17px;
+}
+.support .main-content .wrap-content .clm-left form .f-group .r-group input {
+  display: none;
+}
+.support .main-content .wrap-content .clm-left form .f-group .r-group input + label {
+  margin: 0 30px 0 0;
+  padding-left: 42px;
+  background: url(../images/support-radio.png) no-repeat 0 -24px;
+  line-height: 20px;
+  display: inline-block;
+  cursor: pointer;
+}
+.support .main-content .wrap-content .clm-left form .f-group .r-group input:checked + label {
+  background: url(../images/support-radio.png) no-repeat 0 0;
+}
+.support .main-content .wrap-content .clm-right {
+  float: left;
+  width: 310px;
+  height: 540px;
+  border-radius: 5px;
+  margin-left:30px;
+  padding: 30px;
+  background: url(../images/support-right-bg.png) no-repeat center bottom, #2bb3e8;
+}
+.support .main-content .wrap-content .clm-right .right-title {
+  margin: 0;
+  font-size: 18px;
+  color: #fcfefe;
+  font-family: UVNSaigon;
+}
+.support .main-content .wrap-content .clm-right ul {
+  padding: 0 0 0 16px;
+  list-style: none;
+  z-index:1;
+  position: relative;
+}
+.support .main-content .wrap-content .clm-right ul li {
+  list-style:none;
+  background: url(../images/support-li-style.png) left 5px no-repeat;
+  padding-left: 20px;
+  margin: 13px 0;
+  color: #fcfefe;
+  font-size: 14px;
+}
+.support .main-content .wrap-content .clm-right ul li a{
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: all 0.1s;
+  -o-transition: all 0.1s;
+  transition: all 0.1s;
+}
+.support .main-content .wrap-content .clm-right ul li a:hover{
+  color: #006ca3;
+  -webkit-transition: all 0.1s;
+  -o-transition: all 0.1s;
+  transition: all 0.1s;
+}
+.support .main-content .wrap-content .clm-right ul li a h4{
+  font-weight: normal !important;
+  padding: 3px 0;
+  margin: 0px;
+}
+.form-list  { position: relative;}
+.people {
+  width: 215px;
+  height: 384px;
+  background: url(../images/support-right-people.png) no-repeat;
+  position: absolute;
+  bottom: -120px;
+  right: 80px;
+  z-index: 0;
+}
+.block10    { padding-top: 130px; position: relative; padding-bottom: 45px;}
+.block10 .button1{
+    margin-top: 30px;
+}
+.block10 .button1   { margin-left:0; float: left;}
+.support-box    { background: url(../images/bg-expert-phone.png) no-repeat 0 0; position: relative; z-index: 2; width:100%; height:230px; overflow: hidden;}
+.support-box .column1   { width: 42%; float:left; color:#FFF; padding: 3% 4%;}
+.support-box .column2 .block-title, .support-box .column1 .block-title  { font-size: 16px; padding-bottom: 15px;}
+.support-box .column2   { width: 42%; float:left; color:#FFF; padding: 3% 4%;}
+.support-box .column2 .phone    { font-size:24px; margin-bottom: 10px;}
+
+
+
+body.support-listing .main-content {
+  background: url(../images/bg-tuvan.png) repeat-x #FFF top center;
+}
+.support-listing .main-content > .wrap-content {
+  padding-top: 128px;
+}
+.support-listing .main-content > .wrap-content .main-title {
+  font-family: UVN Saigon;
+  font-size: 28px;
+  color: #006ca3;
+  margin: 0 0 40px 0;
+}
+.support-listing .main-content > .wrap-content .top {
+  display: flex;
+  display: -webkit-flex;
+  box-shadow: -1px -1px 1px #f2f2f2;
+  -webkit-box-shadow: -1px -1px 1px #f2f2f2, 1px 1px 1px #f2f2f2;
+  border-radius: 10px;
+  background: #fff;
+}
+.support-listing .main-content > .wrap-content .top .left {
+  align-items: stretch;
+  width: 270px;
+  margin-right: 30px;
+  border-right: 1px solid #e5e5e5;
+  padding: 20px 0;
+}
+.support-listing .main-content > .wrap-content .top .left .left-i {
+  display: block;
+  padding: 0 20px;
+  padding-top: 10px;
+  height: 60px;
+}
+.support-listing .main-content > .wrap-content .top .left .left-i img {
+  height: 100%;
+  float: left;
+}
+.support-listing .main-content > .wrap-content .top .left .left-i .text {
+  float: left;
+  line-height: 50px;
+  margin-left: 15px;
+  color: #333333;
+}
+.support-listing .main-content > .wrap-content .top .left .left-i.active {
+  background: #29afef;
+}
+.support-listing .main-content > .wrap-content .top .left .left-i.active .text {
+  color: #fff;
+}
+.support-listing .main-content > .wrap-content .top .right {
+  width: 670px;
+  padding: 20px 30px 20px 0;
+}
+.support-listing .main-content > .wrap-content .top .right .input-search {
+  width: 100%;
+  border: 0;
+  border-radius: 10px;
+  padding: 0 50px 0 20px;
+  outline: 0;
+  height: 40px;
+  background: url(../images/support-icon-search.png) no-repeat, #d4ecf7;
+  background-position: 600px center;
+}
+.support-listing .main-content > .wrap-content .top .right .input-search::-webkit-input-placeholder {
+  color: #3a3a3a;
+}
+.support-listing .main-content > .wrap-content .top .right .input-search:-moz-placeholder {
+  /* Firefox 18- */
+  color: #3a3a3a;
+}
+.support-listing .main-content > .wrap-content .top .right .input-search::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #3a3a3a;
+}
+.support-listing .main-content > .wrap-content .top .right .input-search:-ms-input-placeholder {
+  color: #3a3a3a;
+}
+.support-listing .main-content > .wrap-content .top .right .title {
+  font-size: 18px;
+  color: #3a3a3a;
+  font-family: UVN Saigon;
+  font-weight: bold;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 15px;
+  margin: 29px 0 0 0;
+}
+.support-listing .main-content > .wrap-content .top .right .question-i {
+  display: block;
+  text-decoration: none;
+  padding: 15px 0;
+  border-bottom: 1px solid #f2f2f2;
+  background: url(../images/arrow-icon3.png) no-repeat right center;
+}
+.support-listing .main-content > .wrap-content .top .right .question-i .name {
+  color: #006da4;
+}
+.support-listing .main-content > .wrap-content .top .right .question-i .like {
+  background: url(../images/support-heart.png) no-repeat;
+  background-position: 0 13px;
+  padding: 10px 0 0 21px;
+  font-size: 12px;
+  color: #666666;
+}
+.support-listing .main-content > .wrap-content .top .right .question-i .like span {
+  color: #006da4;
+}
+.support-listing .main-content > .wrap-content .top .right .see-more {
+  border: 1px solid #94d7f7;
+  outline: 0;
+  color: #3a3a3a;
+  background: #fff;
+  height: 40px;
+  border-radius: 20px;
+  width: 120px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  line-height: 40px;
+  margin: 20px 0 0 0;
+}
+.support-listing .main-content > .wrap-content .bottom {
+  height: 230px;
+  margin: 50px 0 42px 0;
+  width: 100%;
+  background: url(../images/support-listing-bg.png) no-repeat;
+  position: relative;
+}
+.support-listing .main-content > .wrap-content .bottom .left {
+  position: absolute;
+  left: 50px;
+  top: 36px;
+  width: 285px;
+  height: 170px;
+}
+.support-listing .main-content > .wrap-content .bottom .left h3 {
+  font-family: UVN Saigon;
+  color: #fff;
+  font-size: 16px;
+  margin: 0 ;
+}
+.support-listing .main-content > .wrap-content .bottom .left p {
+  color: #fff;
+  font-size: 14px;
+  margin: 18px 0 ;
+}
+.support-listing .main-content > .wrap-content .bottom .left .see-more {
+  color: #005e9a;
+  display: block;
+  border: 0;
+  background: url(../images/button.png) no-repeat 0 0;
+  padding: 0;
+  width: 190px;
+  height: 40px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  line-height: 40px;
+  outline: 0;
+}
+.support-listing .main-content > .wrap-content .bottom .left .see-more:hover {
+  background: url(../images/button.png) no-repeat 0 -40px;
+}
+.support-listing .main-content > .wrap-content .bottom .right {
+  width: 246px;
+  height: 123px;
+  position: absolute;
+  left: 535px;
+  top: 36px;
+}
+.support-listing .main-content > .wrap-content .bottom .right p {
+  margin: 0;
+  color: #fff;
+  font-size: 14px;
+}
+.support-listing .main-content > .wrap-content .bottom .right p:nth-child(1) {
+  font-family: UVN Saigon;
+  font-weight: bold;
+}
+.support-listing .main-content > .wrap-content .bottom .right h2 {
+  font-family: UVN Saigon;
+  color: #fff;
+  font-size: 24px;
+  margin: 20px 0 ;
+}
+.support-listing .main-content > .wrap-content .bottom .people {
+  width: 137px;
+  height: 250px;
+  background: url(../images/support-right-people.png) no-repeat;
+  position: absolute;
+  right: 485px;
+  bottom: 0;
+  background-size: 137px 250px;
+}
+
+.article-content .title    { margin:20px 0 0 0 !important; line-height: 18px; color:#006da4 !important;}
+.article-content .footer-article    { background: #e9f7fd; border-radius: 5px; padding: 20px;}
+.footer-article .button3    { margin:0;}
