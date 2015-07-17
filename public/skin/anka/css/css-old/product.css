@@ -1,0 +1,212 @@
+body.san-pham   { background: url(../images/wrap-bg.png) repeat-x #7de0f1 top;}
+body.san-pham .main-content     {background: url(../images/bg1-about.jpg) no-repeat #FFF top center;}
+body.gold-iq .main-content   { background: url(../images/bg-anka-gold-iq.jpg) top center no-repeat #FFF; padding-top: 70px;}
+body.gold-grow .main-content { background: url(../images/bg-anka-gold-grow.jpg) no-repeat #FFF top center; padding-top: 70px;}
+.title-top  { text-align: center; padding: 80px 0 30px 0;}
+.column1    { font-size: 16px;}
+.block01    { width: auto; height: 460px; position: relative; background: url('../images/bg-big1-full-pro.png') no-repeat center top; margin: 0 auto; border-radius: 10px; padding-bottom: 20px;}
+.block02 .caption, .block01 .caption   { padding-top: 38px;}
+.block02 .caption .block-title-2, .block01 .caption .block-title-2    { margin:0;}
+.block02 .wrap-content  { position: relative;}
+.list-product   { width: 600px;}
+.list-product ul{ padding: 0px; margin: 35px 0 0 0;}
+.list-product ul li { list-style: none; float: left; text-align:center; position: relative; width: 32%;}
+.list-product ul li .shadow-pro { width: 160px; height: 60px; position: absolute; background: url('../images/shadow-pro.png') no-repeat center top; top: 136px; z-index: -1; left: 6px;}
+.list-product ul li a   {  text-decoration: none;}
+.list-product ul li .name-pro   {font-size: 16px; color: #006da4; font-weight: bold;}
+.baby-1 { position: absolute; right: 40px; top: 0px;}
+.baby-1 .img-baby1{ width: 435px; height: 380px; position: absolute; background: url('../images/baby.png') no-repeat center top; right: 52px; top: 24px;}
+.block-title    { font-family: UVNSaigonBold; font-size: 30px; font-weight: 200; }
+.block-title-2  { font-size: 22px; font-family: UVNSaigonBold; color: #006ca3; margin: 21px 0; font-weight:200;}
+.bottom-block1  { width: 100%; height: 100px; display: block; position: relative;}
+.bottom-block1 .geni    { width: 200px; height: 200px; position: absolute; background: url('../images/geni-pro.png') no-repeat center top; top: -30px; left: -35px; }
+.bottom-block1 .article { padding: 45px 0 0 200px;}
+.bottom-block1 .article .block-title-small  { font-size: 14px;font-family: UTMAvoBold; color: #bf9013; padding: 0px; margin: 8px 0; font-weight: 200; }
+.bottom-block1 .article .column1-small  { font-size: 12px; color: #000; font-family: Arial, Tahoma; }
+.block02    { width: auto; height: 460px; position: relative; background: url('../images/bg-big2-pro.png') no-repeat center top; margin: 0 auto; border-radius: 10px;}
+.baby-2 {position: absolute;display: block; right: -100px; top: 40px; }
+.baby-2 .img-baby2  { width: 300px; height: 272px; position: absolute; background: url('../images/baby2-pro.png') no-repeat center top; right: 156px; top: 40px;}
+.baby-2 .img-elephant   {width: 225px; height: 270px; position: absolute; background: url('../images/elephant-pro.png') no-repeat center top; right: 50px; top: -60px; }
+.baby-2 .object-right   {width: 80px; height: 328px; position:absolute; right: 0px; background: url('../images/object-right-pro.png') no-repeat center top; top: 3px;}
+.block02 .bottom-block1 .growup {width: 200px; height: 100px; position: absolute; background: url('../images/growup-pro.png') no-repeat center top; top: 45px; left: -35px; }
+.block02 .bottom-block1 .article .column1-small {font-size: 14px; color: #000; font-family: UTMAvo;}
+.block02 .bottom-block1 .article    { width: 610px; height: 70px; position: absolute; right: 164px; bottom: -42px;}
+.block02 .bottom-block1 .article .column1-small a   { font-size: 14px; color: #2d5b18; font-family: UTMAvo; text-decoration: none; font-weight: bold;}
+.block03    { height: 400px; position: relative; background: url('../images/bg-from-cow-to-can.jpg') no-repeat center top; margin: 0 auto; }
+.block03 .wrap-content  { position: relative;}
+.block03 .block-content {width: 370px; height: 160px; position: absolute; right: 0; top: 30px;}
+.block03 .block-content .block-title    {color: #fff; font-size: 28px;}
+.block03 .block-content .button2    {margin-top: 26px; }
+
+.product h2 { margin: 0;}
+.product    { padding-top:45px; position: relative;}
+.product .detail    { width: 45%; color:#000; float: left;}
+.product .img-product    { width: 55%; float: left;}
+.ankagoldiq1 .detail .name  { background: url(../images/name-anka-gold-iq-1.png) no-repeat top left; text-indent: -10000px; line-height:60px; padding-bottom: 20px;}
+.ankagoldgrow .detail .name  { background: url(../images/name-anka-gold-grow-1.png) no-repeat top left; text-indent: -10000px; line-height:66px; padding-bottom: 20px;}
+.product .detail .description   { font-family: UVNSaigon; font-size: 16px; font-weight: bold;}
+.ankagoldiq1>.container  { background: url(../images/bg-detail-anka-gold-iq-1.png) no-repeat 110px 95px; position: relative; padding-bottom:90px;}
+.ankagoldgrow>.container  { background: url(../images/bg-detail-anka-gold-grow-1.png) no-repeat 155px 140px; position: relative; padding-bottom:90px;}
+.ankagoldiq1 .detail .description2  { padding: 50px 0 0 175px; height: 160px;}
+.ankagoldgrow .detail .description2  { padding: 95px 20px 0 100px; height: 110px; color:#FFF;}
+.ankagoldiq1 .detail .weight    { font-weight: bold;}
+.ankagoldgrow .detail .weight    { font-weight: bold; padding: 25px 0 0 90px}
+.product .detail .weight span   { padding: 10px 18px; background: #e5e4da; -webkit-border-radius: 30px; -moz-border-radius: 30px; border-radius: 30px; margin: 0 5px; font-weight: normal;}
+.ankagoldiq1 .character { position: absolute; width: 230px; height: 225px; background: url(../images/bear-sleep.png) no-repeat; top:90px; right:45px;}
+.ankagoldgrow .character { position: absolute; width: 235px; height: 215px; background: url(../images/elephan-funny.png) no-repeat; top:90px; right:45px;}
+.PIC360{overflow:hidden;}
+.PIC360 UL,.PIC360 LI{margin:0; padding:0;}
+.PIC360 LI{list-style:none;}
+.PIC360 li img{ position: absolute; top:0; left:0; z-index:-1;}
+.PIC360{ margin:10px auto; text-align:center; width: 210px; height:312px; position: relative;}
+.show   { z-index:1 !important;}
+.rotate_control  {width: 332px; margin:0 auto; display: none;}
+.rotate_control span.note    { display: block; text-align: center; padding-top: 10px;}
+.rotate_control #slider    { border:none; height: 45px; background: url(../images/control_backgroud.jpg) no-repeat top center;}
+.rotate_control #slider .ui-slider-handle   { background: url(../images/control_drap.png) no-repeat; width: 20px; height: 20px; border:none; outline:none; cursor: pointer; top: 33px;}
+.rotate_control #slider { position: relative;}
+@keyframes ping {
+  0%    { -webkit-transform: scale(1); transform: scale(1); filter: alpha(opacity=50); opacity: 0.5; }
+  50%   { -webkit-transform: scale(1.3); transform: scale(1.3); filter: alpha(opacity=0); opacity: 0; }
+  100%  { -webkit-transform: scale(1.3); transform: scale(1.3); filter: alpha(opacity=0); opacity: 0; }
+}
+@-webkit-keyframes ping {
+  0%    {-webkit-transform: scale(1); transform: scale(1); filter: alpha(opacity=50); opacity: 0.5; }
+  50%   {-webkit-transform: scale(1.3); transform: scale(1.3); filter: alpha(opacity=0); opacity: 0; }
+  100%  {-webkit-transform: scale(1.3); transform: scale(1.3); filter: alpha(opacity=0); opacity: 0; }
+}
+.point  { z-index: 99; background: rgba(255, 0, 0, 0.5); border-radius: 50%; -webkit-border-radius: 50%; border: 2px solid rgba(255, 0, 0, 0.5); width: 14px; height: 14px; position: absolute; cursor: pointer; top:20px; left:20px;}
+.point:after    { content: ''; width: 12px; height: 12px; display: block; border: 4px solid blue; border-radius: 50%; -webkit-border-radius: 50%; top: -3px; left: -3px; position: absolute; filter: alpha(opacity=50); opacity: 0.5; z-index: 98; animation: ping 1.5s ease-out infinite; -webkit-animation: ping 1.5s ease-out infinite; -webkit-transform: translate3d(0, 0, 0);}
+@keyframes bearSleep {
+    0% { top:90px; }
+    50% { top:95px; }
+    100% { top: 100px }
+}
+@-moz-keyframes bearSleep {
+    0% { top:90px; }
+    50% { top:95px; }
+    100% { top: 100px }
+}
+@-webkit-keyframes bearSleep {
+    0% { top:90px; }
+    50% { top:95px; }
+    100% { top: 100px }
+}
+@-ms-keyframes bearSleep {
+    0% { top:90px; }
+    50% { top:95px; }
+    100% { top: 100px }
+}
+@-o-keyframes bearSleep {
+    0% { top:90px; }
+    50% { top:95px; }
+    100% { top: 100px }
+}
+.character  { 
+animation: bearSleep 1.2s linear infinite alternate;
+-moz-animation: bearSleep 1.2s linear infinite alternate;
+-webkit-animation: bearSleep 1.2s linear infinite alternate;
+-ms-animation: bearSleep 1.2s linear infinite alternate;
+-o-animation: bearSleep 1.2s linear infinite alternate;
+}
+.show-more  { position: absolute; width: 100%; bottom: -70px; left:0; background: url(../images/bg-showmore.png) top center no-repeat; z-index:1;}
+.show-more a    { width: 400px; height: 55px; display: block; margin:0 auto; text-align:center; text-decoration: none; text-transform: uppercase; color:#004c87; font-weight:bold; font-size:11px; background: url(../images/bottom-arrow.png) no-repeat center 35px; padding-top: 15px;}
+.relative-product   { background:#b9e2f1;}
+.relative-product .block-title-2    { color:#004c87;}
+.relative-product .list-product { width: 100%; padding: 40px 0 0 0;  position: relative;}
+.relative-product .list-product .name-pro  { margin:0 0 70px 0; font-size:12px;}
+.relative-product .list-product ul  { margin-top: 50px;}
+.relative-product .list-product ul li   { width: 20%;}
+.relative-product .list-product ul li a, .relative-product .list-product ul li a h3   { color:#393939;}
+.baby-fly   { position: absolute; bottom:0; right:-200px; background: url(../images/bg-baby.png) no-repeat bottom right; width: 225px; height:400px;}
+.relative-product .list-product ul li img { width: 90px;}
+.product.ankagoldiq1 .moreinfo   { background: #d9f5ff; line-height:22px;}
+.product.ankagoldiq1 .moreinfo .top { background: url(../images/bg-des-product1-top.jpg) top left repeat-x;}
+.product.ankagoldiq1 .moreinfo .bottom { background: url(../images/bg-des-product1-bottom.jpg) bottom left repeat-x; padding-bottom: 110px; }
+.product.ankagoldiq1 .moreinfo .block-title  { font-size: 24px;}
+.product .moreinfo .des-2    { padding: 75px 0 165px 0; color:#FFF;}
+.product.ankagoldgrow .des-2    { color:#000}
+.product.ankagoldiq1 .moreinfo .des-2 .block-title   { font-size: 18px; margin:0; line-height: 50px; text-align: center; background: #e3af23; color:#FFF; -webkit-border-top-left-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-moz-border-radius-topleft: 10px;
+-moz-border-radius-topright: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px; text-shadow: 1px 1px 3px #000000;}
+.product.ankagoldgrow .moreinfo .des-2 .block-title   { font-size: 18px; margin:0; line-height: 50px; text-align: center; background: #26803e; color:#FFF; -webkit-border-top-left-radius: 10px; -webkit-border-top-right-radius: 10px; -moz-border-radius-topleft: 10px; -moz-border-radius-topright: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; text-shadow: 1px 1px 3px #333;}
+.product.ankagoldgrow .moreinfo { background: #eaf4da;}
+.product.ankagoldgrow .moreinfo .top { background: url(../images/bg-des-product2-top.jpg) top left repeat-x;}
+.product.ankagoldgrow .moreinfo .bottom { background: url(../images/bg-des-product2-bottom.jpg) bottom left repeat-x; padding-bottom: 110px; }
+.product.ankagoldiq1 .moreinfo .des-2 .block-content { background: url(../images/bg-geni-iq.jpg) no-repeat top right #1167a4; position: relative; -webkit-border-bottom-right-radius: 10px; -webkit-border-bottom-left-radius: 10px; -moz-border-radius-bottomright: 10px; -moz-border-radius-bottomleft: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;}
+.product.ankagoldgrow .moreinfo .des-2 .block-content { background: #FFF; position: relative; -webkit-border-bottom-right-radius: 10px; -webkit-border-bottom-left-radius: 10px; -moz-border-radius-bottomright: 10px; -moz-border-radius-bottomleft: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;}
+.product .moreinfo .des-2 .block-content .content    { position: relative; z-index: 2; padding-top:20px; text-align: center; padding-bottom: 80px;}
+.product .moreinfo .des-2 .geni-iq-icon  { width: 320px; height: 320px; background: url(../images/geni-iq-icon.png) no-repeat; position: absolute; bottom: -150px;left:-75px; z-index:1;}
+.product .moreinfo .des-2 .anka-gold-grow-icon  { width: 270px; height: 140px; background: url(../images/anka-gold-grow-icon.png) no-repeat; position: absolute; bottom: -20px;left:25px; z-index:1;}
+.product .moreinfo .des-2 .anka-icon  { width: 270px; height: 85px; background: url(../images/anka-icon.png) no-repeat; position: absolute; bottom: -35px; right:-40px; z-index:1;}
+.product .moreinfo .des-2 .formula2,.product .moreinfo .des-2 .formula  { position: absolute; z-index:2; left: 240px; bottom: -70px;}
+.product .moreinfo .des-2 .formula2 ul li,.product .moreinfo .des-2 .formula ul li    { float: left; text-align: center; margin-right: 10px; width: 72px; list-style: none;}
+.product .moreinfo .des-2 .formula2 ul li a,.product .moreinfo .des-2 .formula ul li a  { color: #1167a4; text-transform: uppercase; text-decoration: none; font-weight: bold; font-size: 12px;}
+.formula ul li span { display: block; background: url(../images/bg-description-option.png) no-repeat; width: 100%; height: 73px; margin-bottom: 20px;}
+.formula ul li .tritue span { background-position: 0 0;}
+.formula ul li .tritue.active span { background-position: 0 -73px;}
+.formula ul li .mat span { background-position: -80px 0;}
+.formula ul li .mat.active span { background-position: -80px -73px;}
+.formula ul li .miendich span { background-position: -164px 0;}
+.formula ul li .miendich.active span { background-position: -164px -73px;}
+.formula ul li .tieuhoa span { background-position: -245px 0;}
+.formula ul li .tieuhoa.active span { background-position: -245px -73px;}
+.formula ul li .phattrien span { background-position: -328px 0;}
+.formula ul li .phattrien.active span { background-position: -328px -73px;}
+.formula2 ul li span { display: block; background: url(../images/bg-product-option-gold-grow.png) no-repeat; width: 66px; height: 66px; margin: 0 auto 20px auto;}
+.formula2 ul li .thechat span { background-position: 0 0;}
+.formula2 ul li .thechat.active span { background-position: 0 -66px;}
+.formula2 ul li .trinao span { background-position: -67px 0;}
+.formula2 ul li .trinao.active span { background-position: -67px -66px;}
+.formula2 ul li .thigiac span { background-position: -135px 0;}
+.formula2 ul li .thigiac.active span { background-position: -134px -66px;}
+.formula2 ul li .xuong span { background-position: -202px 0;}
+.formula2 ul li .xuong.active span { background-position: -201px -66px;}
+.formula2 ul li .dekhang span { background-position: -270px 0;}
+.formula2 ul li .dekhang.active span { background-position: -270px -66px;}
+#tabs   { border: none; background: none; padding-bottom: 25px;}
+#tabs .ui-tabs-nav  { background: none; border: none;}
+#tabs .ui-tabs-nav li   { border: none; background:#f4f4f4; text-transform: uppercase; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; font-weight: bold; color:#737373; padding: 0 30px; margin-right: 10px;}
+#tabs .ui-tabs-nav li a { padding:0; line-height: 40px;}
+#tabs .ui-tabs-nav li.ui-tabs-active    { background:#13b8f1; color:#FFF;}
+.ankagoldgrow #tabs .ui-tabs-nav li.ui-tabs-active    { background:#61a83f; color:#FFF;}
+#tabs .ui-tabs-nav li.ui-tabs-active a  { color:#FFF;}
+#tabs .ui-tabs-panel    { padding:0;}
+.des-3 .wrap-content    { background: #FFF; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;}
+.des-3 .wrap-content .content   { padding: 30px 40px 40px 40px; position: relative;}
+.des-3 .content .milk-bottled   { position: absolute; top:30px; right:40px; background: url(../images/milk_bottled.png) no-repeat top left; padding-left: 20px; color:#666666; line-height: 16px; font-style:italic;}
+.element-detail     { padding:0;}
+.element-detail li      { list-style: none; float: left; width: 48%; border-bottom: 1px solid #e9e9e9;}
+.element-detail li:nth-child(odd)   { margin-right: 4%;}
+.element-detail li  { line-height: 52px; color:#666666;}
+.element-detail li span { float: right; color:#13b8f1; font-size: 18px; text-align:right;}
+.moreinfo .video    { background: #d9f5ff; height: 160px;}
+.moreinfo .video>a>img  { float:left;}
+.moreinfo .video .content   { padding: 40px 0 0 30px; float: left;}
+.moreinfo .video .content h5    { margin:0; font-size: 16px; font-family: UVNSaigonBold; font-weight: 200;}
+.des-4  { margin-top: 60px;}
+.des-4 .block-title { margin-bottom: 40px;}
+.des-4 ul   { margin:0; padding:0;}
+.des-4 ul li    { width: 170px; float: left; margin-right: 30px; list-style: none;}
+.des-4 ul li .block-01   { background: url(../images/bg-block-04-1.png) no-repeat top left; padding-top: 140px;}
+.des-4 ul li .block-02   { background: url(../images/bg-block-04-2.png) no-repeat top left; padding-top: 140px;}
+.des-4 ul li .block-03   { background: url(../images/bg-block-04-3.png) no-repeat top left; padding-top: 140px;}
+.des-4 .wrap-content    { background: url(../images/bg-map-block-04.png) no-repeat 630px 50px; position: relative;}
+.des-4 .wrap-content .info  { position: absolute; bottom:30px; right:100px; width: 130px;}
+.des-5 .wrap-content    { position: relative; margin-top: 60px;}
+.des-5 .wrap-content .content   { padding-left: 300px;}
+.des-5 .wrap-content .content .block-title  { margin:0 0 40px 0;}
+.anka-gold-1-hand   { position: absolute; top:60px; left: -160px; background: url(../images/anka-gold-iq-hand.png) no-repeat; width: 415px; height:260px;}
+.des-5 .wrap-content ul li  { list-style: none; float: left; width: 22%; margin-right: 3%; margin-bottom: 40px;}
+.des-5 .wrap-content ul li span { background: url(../images/bg-step.png) no-repeat; display: block; width: 100%; height: 55px; margin-bottom: 12px;}
+.des-5 .wrap-content ul li.step1 span { background-position: 0 0;}
+.des-5 .wrap-content ul li.step2 span { background-position: 0 -55px;}
+.des-5 .wrap-content ul li.step3 span { background-position: 0 -110px; height: 67px; margin-bottom: 0}
+.des-5 .wrap-content ul li.step4 span { background-position: 0 -179px;}
+.des-5 .wrap-content ul li.step5 span { background-position: 0 -245px; height: 67px; margin-bottom: 0}
+.des-5 .wrap-content ul li.step6 span { background-position: 0 -311px; height: 67px; margin-bottom: 0}
+.des-5 .wrap-content ul li.step7 span { background-position: 0 -377px; height: 67px; margin-bottom: 0}
+.des-5 .wrap-content ul li.step8 span { background-position: 0 -443px; height: 67px; margin-bottom: 0}

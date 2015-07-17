@@ -1,0 +1,16 @@
+body.gioi-thieu .main-content { background: url(../images/bg2-about-top.jpg) no-repeat #FFF top center;}
+body.gioi-thieu .main-content .bottom { background: url(../images/bg2-about-bottom.jpg) no-repeat bottom center; padding-bottom: 330px;}
+.block01    { padding: 150px 0 150px 0; position: relative;}
+.block01 a , .block01   { font-family: UNVSaigon; font-size:22px; line-height: 36px; color:#006da4;}
+.block01 .caption   { width: 570px; position: relative;}
+.block01 .caption .quote1, .block01 .caption .quote2   { display: block;}
+.block01 .caption .quote2   { float: right;}
+.dieu   { background: url(../images/2dieu.png) no-repeat top left; width: 195px; height: 235px; position: absolute; top:55px; right: 160px;}
+.block02    { position: relative;}
+.gau    { background: url(../images/about-block2.png) no-repeat top left; width:320px; height:285px; position: absolute; top:0; left: 100px;}
+.block02 .caption   { padding-left: 300px;}
+.block02 .caption .column1   { float:left; margin-right: 30px; width: 50%;}
+.block02 .caption .column1   { float:left; width: 50%;}
+.block03    { position: relative; margin-top: 150px;}
+.kerry    { background: url(../images/logo-kerry.png) no-repeat top left; width:235px; height:85px; position: absolute; top:55px; left: 185px;}
+.block03 .caption   { padding-left: 300px;}
